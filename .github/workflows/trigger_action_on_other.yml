@@ -30,4 +30,4 @@ jobs:
           owner: ryandillinfelton
           repo: github_actions_test_2
           github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          workflow_file_name: deploy.yml
+          workflow_file_name: test_job.yml
